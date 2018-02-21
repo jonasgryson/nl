@@ -1962,12 +1962,40 @@ body {
     width: 100% !important;
   }
 }
-.cid-qwOBr2lA1y {
+.cid-qKhAJEozRF {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qwOBr2lA1y .mbr-text {
+@media (min-width: 992px) {
+  .cid-qKhAJEozRF .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qKhAJEozRF .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qKhAJEozRF .mbr-text {
+  color: #767676;
+}
+.cid-qKhAJJWe5P {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qKhAJJWe5P .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qKhAJJWe5P .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qKhAJJWe5P .mbr-text {
   color: #767676;
 }
 .cid-qwI6Nfv33J .navbar {
